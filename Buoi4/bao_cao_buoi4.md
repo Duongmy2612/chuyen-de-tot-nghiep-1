@@ -1,7 +1,7 @@
 BÁO CÁO BUỔI 4 – Dương Diễm My – 2374802010318 – Track DA – Luồng L7
 (Các chỗ có [ ] là số/link em phải tự điền sau khi push và sau khi làm thật)
 
-1. Link commit cuối buổi (docs/srs.md + file .drawio): [dán link commit GitHub]
+1. Link commit cuối buổi (docs/srs.md + file .drawio): [https://github.com/Duongmy2612/chuyen-de-tot-nghiep-1/tree/main/Buoi4]
 2. User Story: 11 story | 3 MUST | 9 tiêu chí GWT (3 ngoại lệ)
 3. Use Case: 3 actor | 9 use case | UC đặc tả chi tiết: UC5 – Xác nhận gộp hoặc giữ riêng cặp nghi trùng (6 luồng ngoại lệ: 3a, 3b, 5a, 6a, 8a, 9a)
 4. SRS: 6/6 mục | 11 FR có mã | 8 NFR có ngưỡng số | truy vết còn 0 ô trống
